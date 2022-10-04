@@ -59,3 +59,18 @@
 
 #print ('Remainder of a & b is : ', a%b )
 #=====================================================================
+
+# Loan Interest Caluculator
+
+# for given Principal amount, Rate of interest and Time.
+
+#P = float(input("Please enter your Priencipal Amout :"))
+#R = float(input("Please enter you rate of interestr shared ROI :"))
+#T = int(input("Please enter your loan duration time in Year :"))
+
+# Calculates simple interest
+#SI = (P * R * T) / 100
+ 
+# Print the Total Intrest Amount of Loan Amount
+# print("Your Loan's calculated interest is", SI)
+
